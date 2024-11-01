@@ -1,14 +1,19 @@
 import socket
-mySocket = socket.socket()
-
-def connect_socket():
-    global conn,addr
-    mySocket.bind(('localhost',65434))
+import threading
+hostname="localhost"
+port=65434
+def socket_listener():
+    global conn
+    mySocket = socket.socket()
+    mySocket.bind((hostname, port))
     mySocket.listen(5)
-    conn , addr = mySocket.accept()
-    print("device connected")
-    
-connect_socket()
+    print("Waiting for connection...")
+    conn, addr = mySocket.accept()
+    print("Device connected")
+    #Func(conn)
+    conn.close()
+    mySocket.close()
 
-msg =bytes("hello from server", 'utf-8')
-conn.send(msg)
+thread = threading.Thread(target=socket_listener)
+thread.start()
+thread.join()
