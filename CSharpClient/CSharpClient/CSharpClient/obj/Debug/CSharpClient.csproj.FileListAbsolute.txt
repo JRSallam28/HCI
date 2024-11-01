@@ -1,0 +1,28 @@
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.cache
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\Mohamed Ashraf\source\repos\CSharpClient\CSharpClient\obj\Debug\CSharpClient.pdb
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.AssemblyReference.cache
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.cache
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\farah\Downloads\Lab 3\Lab 3\CSharpClient\CSharpClient\obj\Debug\CSharpClient.pdb
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe.config
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\bin\Debug\CSharpClient.pdb
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.AssemblyReference.cache
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.cache
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.CoreCompileInputs.cache
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.exe
+D:\Downloads\1-MSA\Fall 24\HCI\Project\Phase 2\CSharpClient\CSharpClient\CSharpClient\obj\Debug\CSharpClient.pdb
